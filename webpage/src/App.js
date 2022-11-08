@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import ShubhangiMain from './component/shubhangi/shubhangiMain';
-import SujataMain from './component/sujata/sujataMain';
-import VaishnnaviMain from './component/vaishnavi/vaishnnaviMain';
+import ShubhangiMain from './component/shubhangi/ShubhangiMain';
+import SujataMain from './component/sujata/SujataMain';
+import VaishnnaviMain from './component/vaishnavi/VaishnnaviMain';
 
 function App() {
   return (
