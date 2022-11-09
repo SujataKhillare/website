@@ -11,58 +11,10 @@ function App() {
       <ShubhangiMain/>
       
       <VaishnnaviMain/>
+      <br/>
+      <br/>
       <SujataMain/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-    </div>
+      </div>
   );
 }
 
