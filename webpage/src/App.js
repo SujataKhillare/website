@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import ShubhangiMain from './component/shubhangi/ShubhangiMain';
 import SujataMain from './component/sujata/SujataMain';
