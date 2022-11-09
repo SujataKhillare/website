@@ -9,8 +9,9 @@ function App() {
     <div className="App">
       
       <ShubhangiMain/>
-      <SujataMain/>
+      
       <VaishnnaviMain/>
+      <SujataMain/>
     </div>
   );
 }
