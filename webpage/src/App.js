@@ -7,7 +7,7 @@ import VaishnnaviMain from './component/vaishnavi/VaishnnaviMain';
 function App() {
   return (
     <div className="App">
-      <h1>WbPage</h1>
+      
       <ShubhangiMain/>
       <SujataMain/>
       <VaishnnaviMain/>
