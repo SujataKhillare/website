@@ -1,0 +1,110 @@
+*{
+    
+    box-sizing: border-box;
+}
+#main1{
+    margin-top: 100px;
+    width: 100%;
+    position: relative;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: -15px;
+    margin-right: -15px
+}
+#image{
+    padding-top: 100px;
+    width: 40%;
+    
+}
+#image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 300px;
+    height: 500px;
+    /* border: 1px red solid; */
+  }
+#image2 {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    bottom: 200px !important;
+    /* top: 0px !important; */
+    left: 150px !important;
+    z-index: 1;
+    /* border: 1px green solid; */
+  }
+#info{
+    /* text-align: center; */
+    margin-left: 70px;
+    width: 40%;
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 25px;
+}
+h5{
+    margin: 0 0 11px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #333;
+    font-family: "Poppins", Helvetica, Arial, sans-serif;
+}
+p{
+    margin: 0 0 11px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+#head1{
+    color: #999966;
+    font-family: "Great Vibes", Helvetica, Arial, sans-serif;
+    font-size: 56px;
+    line-height: 66px;
+    margin-bottom: -25px;
+    font-weight: 400;
+}
+#head22{
+    margin-top: 20px;
+    color: #333333;
+    font-family: "Poppins", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    display: block;
+}
+#Aboutdiv1{
+    margin-top: 25px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 4px;
+   border-style: solid;
+   border-color: #333333 ;
+   color: #333333 ;
+   font-family: "Poppins", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 25px;
+}
+#Aboutdiv1:hover{
+    border-color: #cc9933 !important;
+    color: #cc9933 !important;
+}
+
+#Aboutspan1{
+    vertical-align: middle;
+    display: inline-block;
+    color: #262626 ;
+}
+#Aboutspan1:hover{
+    border-color: #cc9933;
+    color: #cc9933 !important;
+}
